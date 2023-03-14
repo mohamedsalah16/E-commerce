@@ -1,0 +1,28 @@
+E:\net\الفايل الي خته من محمود\Demo\Demo.Dal\bin\Debug\net6.0\Demo.Dal.deps.json
+E:\net\الفايل الي خته من محمود\Demo\Demo.Dal\bin\Debug\net6.0\Demo.Dal.runtimeconfig.json
+E:\net\الفايل الي خته من محمود\Demo\Demo.Dal\bin\Debug\net6.0\Demo.Dal.dll
+E:\net\الفايل الي خته من محمود\Demo\Demo.Dal\bin\Debug\net6.0\Demo.Dal.pdb
+E:\net\الفايل الي خته من محمود\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.csproj.AssemblyReference.cache
+E:\net\الفايل الي خته من محمود\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\net\الفايل الي خته من محمود\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.AssemblyInfoInputs.cache
+E:\net\الفايل الي خته من محمود\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.AssemblyInfo.cs
+E:\net\الفايل الي خته من محمود\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.csproj.CoreCompileInputs.cache
+E:\net\الفايل الي خته من محمود\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.dll
+E:\net\الفايل الي خته من محمود\Demo\Demo.Dal\obj\Debug\net6.0\refint\Demo.Dal.dll
+E:\net\الفايل الي خته من محمود\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.pdb
+E:\net\الفايل الي خته من محمود\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.genruntimeconfig.cache
+E:\net\الفايل الي خته من محمود\Demo\Demo.Dal\obj\Debug\net6.0\ref\Demo.Dal.dll
+E:\Demo\Demo.Dal\bin\Debug\net6.0\Demo.Dal.deps.json
+E:\Demo\Demo.Dal\bin\Debug\net6.0\Demo.Dal.runtimeconfig.json
+E:\Demo\Demo.Dal\bin\Debug\net6.0\Demo.Dal.dll
+E:\Demo\Demo.Dal\bin\Debug\net6.0\Demo.Dal.pdb
+E:\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.csproj.AssemblyReference.cache
+E:\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.AssemblyInfoInputs.cache
+E:\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.AssemblyInfo.cs
+E:\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.csproj.CoreCompileInputs.cache
+E:\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.dll
+E:\Demo\Demo.Dal\obj\Debug\net6.0\refint\Demo.Dal.dll
+E:\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.pdb
+E:\Demo\Demo.Dal\obj\Debug\net6.0\Demo.Dal.genruntimeconfig.cache
+E:\Demo\Demo.Dal\obj\Debug\net6.0\ref\Demo.Dal.dll

@@ -1,0 +1,30 @@
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\bin\Debug\net6.0\Demo.Bl.deps.json
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\bin\Debug\net6.0\Demo.Bl.dll
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\bin\Debug\net6.0\Demo.Bl.pdb
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\bin\Debug\net6.0\Demo.Dal.dll
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\bin\Debug\net6.0\Demo.Dal.pdb
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.csproj.AssemblyReference.cache
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.GeneratedMSBuildEditorConfig.editorconfig
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.AssemblyInfoInputs.cache
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.AssemblyInfo.cs
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.csproj.CoreCompileInputs.cache
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.csproj.CopyComplete
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.dll
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\obj\Debug\net6.0\refint\Demo.Bl.dll
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.pdb
+E:\net\الفايل الي خته من محمود\Demo\Demo.Bl\obj\Debug\net6.0\ref\Demo.Bl.dll
+E:\Demo\Demo.Bl\bin\Debug\net6.0\Demo.Bl.deps.json
+E:\Demo\Demo.Bl\bin\Debug\net6.0\Demo.Bl.dll
+E:\Demo\Demo.Bl\bin\Debug\net6.0\Demo.Bl.pdb
+E:\Demo\Demo.Bl\bin\Debug\net6.0\Demo.Dal.dll
+E:\Demo\Demo.Bl\bin\Debug\net6.0\Demo.Dal.pdb
+E:\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.csproj.AssemblyReference.cache
+E:\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.AssemblyInfoInputs.cache
+E:\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.AssemblyInfo.cs
+E:\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.csproj.CoreCompileInputs.cache
+E:\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.csproj.CopyComplete
+E:\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.dll
+E:\Demo\Demo.Bl\obj\Debug\net6.0\refint\Demo.Bl.dll
+E:\Demo\Demo.Bl\obj\Debug\net6.0\Demo.Bl.pdb
+E:\Demo\Demo.Bl\obj\Debug\net6.0\ref\Demo.Bl.dll
